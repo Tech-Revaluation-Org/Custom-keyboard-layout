@@ -2,7 +2,7 @@
 key_mappings = {
   'a' => 'q',
   'b' => 'w',
-  # Add more mappings as needed
+  # Add more 
 }
 
 # Write the custom key mappings to a keyboard layout file
